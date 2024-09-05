@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Data Structures and Algorithms.<br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>👨‍💻 All of my projects are available at GitHub Repositories<br><br>📫 How to reach me ansh1111smith@gmail.com<br><br>🧑‍🎓 I'm Currently learning Java and Python<br><br>🧑‍🎓 Flutter Developer
+🌱 I’m currently learning Data Structures and Algorithms.<br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>👨‍💻 All of my projects are available at GitHub Repositories<br><br>📫 How to reach me vishwakarmadivyansh352@gmail.com<br><br>🧑‍🎓 I'm Currently learning Java and Python<br><br>🧑‍🎓 Flutter Developer
 
 
 ## 🌐 Socials:
